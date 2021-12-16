@@ -1,4 +1,4 @@
-#!/Users/genisshou/Documents/HAL/IO31/kadai/temperature-and-humidity-check/temp-project/bin/python3
+#!/Users/genisshou/Documents/HAL/IO31/kadai/temperature-and-humidity-check/temp_project/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
